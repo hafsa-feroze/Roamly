@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+python-dotenv
+fastapi
+uvicorn
+pydantic
+email-validator
+python-multipart
